@@ -14,7 +14,7 @@ function troncIt() {
                                     .replace(/pokemongo/ig, 'goingoutside')
                                     .replace(/(playing |played |play )?Pok(é|e)mon Go?/gi, 'going outside')
                                     .replace(/Pok(é|e)mon?/gi, 'fresh air')
-                                    .replace(/Pok(é|e)stop/ig, 'a place outside');
+                                    .replace(/Pok(é|e)stop/ig, 'place outside');
 
                 if (replacedText !== text) {
                     element.replaceChild(document.createTextNode(replacedText), node);
