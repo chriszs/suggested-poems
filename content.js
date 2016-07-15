@@ -18,7 +18,7 @@ function troncIt() {
                                     .replace(/Pok(è|é|e)(\W)?stop/ig, 'place outside');
 
                 if (replacedText !== text) {
-                    element.replaceChild(document.createTextNode(replacedText), node);
+                    node.textContent = replacedText;
                 }
             }
         }
