@@ -10,7 +10,9 @@ function troncIt() {
 
             if (node.nodeType === 3) {
                 var text = node.nodeValue;
-                var replacedText = text.replace(/(playing )?Pok(é|e)mon( Go)?/gi, 'going outside');
+                var replacedText = text
+                                    .replace(/pokemongo/ig, 'goingoutside')
+                                    .replace(/(playing |played |play )?Pok(é|e)mon( Go)?/gi, 'going outside');
 
                 if (replacedText !== text) {
                     element.replaceChild(document.createTextNode(replacedText), node);
