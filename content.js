@@ -1,8 +1,14 @@
 
 function replaceSuggestions() {
-    var messageEls = document.querySelectorAll('[data-message-id]');
+    let messageEls = document.querySelectorAll('[data-message-id]');
 
-    console.log(messageEls);
+    if (messageEls.length > 0) {
+    	let messageEl = messageEls[messageEls.length-1];
+
+    	let messageText = messageEl.textContent;
+
+    	console.log(messageText);
+	}
 }
 
 // Do it once
