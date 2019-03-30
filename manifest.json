@@ -7,10 +7,18 @@
       "matches": [
         "https://mail.google.com/*"
       ],
-      "js": ["content.js"]
+      "js": [
+        "rita.min.js",
+        "content.js"
+      ],
+      "css": [
+        "content.css"
+      ]
     }
   ],
-  "icons": { "16": "icon16.png",
-             "48": "icon48.png",
-             "128": "icon128.png" }
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
 }

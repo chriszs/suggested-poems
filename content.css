@@ -1,0 +1,35 @@
+.suggestButton {
+    align-items: center;
+    border: none;
+    display: inline-flex;
+    justify-content: center;
+    outline: none;
+    position: relative;
+    z-index: 0;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-size: .875rem;
+    letter-spacing: .25px;
+    font-variant-ligatures: no-contextual;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    border-radius: 8px;
+    box-shadow: inset 0 0 0 1px #dadce0;
+    box-sizing: border-box;
+    color: #1a73e8;
+    cursor: pointer;
+    font-weight: 500;
+    line-height: 20px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+}
+
+.suggestButtons {
+    margin-left: 64px;
+}
+
+div[aria-label*="Suggested reply"] {
+    display: none !important;
+}
