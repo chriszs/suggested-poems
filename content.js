@@ -1,8 +1,8 @@
 
 function replaceSuggestions() {
-    var messageEl = document.querySelector('data-message-id');
+    var messageEls = document.querySelectorAll('[data-message-id]');
 
-    
+    console.log(messageEls);
 }
 
 // Do it once
