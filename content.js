@@ -1,32 +1,12 @@
 
-function troncIt() {
-    var elements = document.getElementsByTagName('*');
+function replaceSuggestions() {
+    var messageEl = document.querySelector('data-message-id');
 
-    for (var i = 0; i < elements.length; i++) {
-        var element = elements[i];
-
-        for (var j = 0; j < element.childNodes.length; j++) {
-            var node = element.childNodes[j];
-
-            if (node.nodeType === 3) {
-                var text = node.nodeValue;
-                var replacedText = text
-                                    .replace(/pokemongo/ig, 'goingoutside')
-                                    .replace(/(playing\W|played\W|play\W)?Pok(é|e)mon\WGo/gi, 'going outside')
-                                    .replace(/(a\W)?Pok(é|e)mon/gi, 'fresh air')
-                                    .replace(/lure\Wmodule/gi, 'big tent')
-                                    .replace(/Pok(è|é|e)(\W)?stop/ig, 'place outside');
-
-                if (replacedText !== text) {
-                    node.textContent = replacedText;
-                }
-            }
-        }
-    }
+    
 }
 
 // Do it once
-troncIt();
+replaceSuggestions();
 
 // AND KEEP ON DOING IT!
-setInterval(troncIt, 1000);
+setInterval(replaceSuggestions, 1000);
