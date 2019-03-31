@@ -105,12 +105,9 @@ function keepTrying(func, time) {
     }
 }
 
-function composePoem(seedText) {
+function composeMarkov(seedText) {
     // http://www.rangakrish.com/downloads/RiTa-Generation.js
-    let rm = new RiMarkov(3);
-    rm.loadText(POETRY_CORPUS + ' ' + seedText);
-
-    let sentences = rm.generateSentences(3);
+    let sentences = ritaMarkovGenerator.generateSentences(3);
 
     return sentences;
 }
@@ -189,11 +186,14 @@ function init() {
         return false;
     }
 
-    let suggestions = composePoem(getMessageText(messageEl));
+    let suggestions = composeMarkov(getMessageText(messageEl));
 
     replaceSuggestions(messageEl,suggestions);
 
     return false;
 }
+
+let ritaMarkovGenerator = new RiMarkov(3);
+ritaMarkovGenerator.loadText(POETRY_CORPUS);
 
 keepTrying(init,1000);
