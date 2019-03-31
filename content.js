@@ -105,10 +105,17 @@ function keepTrying(func, time) {
     }
 }
 
-function composePoems(seedText) {
-    let rs = RiString(seedText);
-    // console.log(rs.features());
+function composePoem(seedText) {
+    // http://www.rangakrish.com/downloads/RiTa-Generation.js
+    let rm = new RiMarkov(4);
+    rm.loadText(POETRY_CORPUS + ' ' + seedText);
 
+    let sentences = rm.generateSentences(3);
+
+    return sentences;
+}
+
+function composeHaiku(seedText) {
     let lexicon = new RiLexicon();
 
     // https://creative-coding.decontextualize.com/intro-to-ritajs/
@@ -124,6 +131,42 @@ function composePoems(seedText) {
         lexicon.randomWord("rb", 2);
 
     return [firstLine, secondLine, thirdLine];
+}
+
+function getText(textEls) {
+    let text = '';
+
+    for (el of textEls) {
+        if (el.hasChildNodes()) {
+            for (node of el.childNodes) {
+                if (node.nodeType === 3 && node.nodeValue && node.nodeValue.trim() !== '') {
+                    text += '\n' + node.nodeValue.trim();
+                }
+            }
+        }
+    }
+
+    return text;
+}
+
+function getMessageText(messageEl) {
+    let text = '';
+
+    let quotedEls = messageEl.querySelectorAll('blockquote div:not(.gmail_attr):not([class*="signature"])')
+
+    if (quotedEls) {
+        text += getText(quotedEls);
+    }
+
+    let unquotedEls = messageEl.querySelectorAll('div:not(.gmail_attr):not([class*="signature"])')
+
+    if (unquotedEls) {
+        text = text + '\n' + getText(unquotedEls).replace(text,'');
+    }
+
+    let lines = text.split('\n');
+
+    return lines.filter(line => line.length > 10).join('\n');
 }
 
 function init() {
@@ -146,7 +189,7 @@ function init() {
         return false;
     }
 
-    let suggestions = composePoems(messageEl.textContent);
+    let suggestions = composePoem(getMessageText(messageEl));
 
     replaceSuggestions(messageEl,suggestions);
 
