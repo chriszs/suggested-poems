@@ -26,9 +26,8 @@ function selectByText(tag, text) {
     let found;
 
     for (span of spans) {
-        if (span.textContent == text) {
+        if (span.textContent == text && !span.getAttribute('role')) {
             found = span;
-            break;
         }
     }
     return found;
@@ -48,7 +47,11 @@ function handleClick(text) {
         buttonEls.style.display = 'none';
     }
 
-    dispatchEvent(selectByText('span','Reply'),'click');
+    let replyEl = selectByText('span','Reply');
+
+    if (replyEl) {
+        dispatchEvent(replyEl,'click');
+    }
 
     keepTrying(insertBody.bind(this,text),1000);
 }
@@ -70,7 +73,13 @@ function selectLastEl(selector) {
 }
 
 function replaceSuggestions(el,suggestions) {
-    let buttonsEl = document.createElement('div');
+    let buttonsEl = document.querySelector('.suggestButtons');
+
+    if (buttonsEl) {
+        buttonsEl.remove();
+    }
+
+    buttonsEl = document.createElement('div');
     buttonsEl.classList.add('suggestButtons');
 
     for (suggestion of suggestions) {
@@ -116,6 +125,12 @@ function init() {
         return false;
     }
 
+    let buttonsEl = messageEl.nextSibling.classList.contains('suggestButtons');
+
+    if (buttonsEl) {
+        return false;
+    }
+
     let suggestions = composePoems(messageEl.textContent);
 /*
     const suggestions = [
@@ -126,7 +141,7 @@ function init() {
 
     replaceSuggestions(messageEl,suggestions);
 
-    return true;
+    return false;
 }
 
 keepTrying(init,1000);
