@@ -8,7 +8,7 @@
         "https://mail.google.com/*"
       ],
       "js": [
-        "rita.min.js",
+        "rita-full.min.js",
         "content.js"
       ],
       "css": [

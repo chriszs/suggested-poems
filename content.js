@@ -88,6 +88,27 @@ function keepTrying(func, time) {
     }
 }
 
+function composePoems(seedText) {
+    let rs = RiString(seedText);
+    // console.log(rs.features());
+
+    let lexicon = new RiLexicon();
+
+    // https://creative-coding.decontextualize.com/intro-to-ritajs/
+    let firstLine  = "the " + 
+        lexicon.randomWord("jj", 2) + " " +
+        lexicon.randomWord("nn", 2);
+    let secondLine = lexicon.randomWord("vbg", 2) +
+        " in the " +
+        lexicon.randomWord("jj", 2) + " " +
+        lexicon.randomWord("nn", 1);
+    let thirdLine = "I " +
+        lexicon.randomWord("vbd", 2) + " " + 
+        lexicon.randomWord("rb", 2);
+
+    return [firstLine, secondLine, thirdLine];
+}
+
 function init() {
     let messageEl = selectLastEl('[data-message-id]');
 
@@ -95,16 +116,13 @@ function init() {
         return false;
     }
 
-    //let messageText = messageEl.textContent;
-
-    // let rs = RiString(messageText);
-    // console.log(rs.features());
-
+    let suggestions = composePoems(messageEl.textContent);
+/*
     const suggestions = [
         'Jumanji!',
         'Wherefore art thou Romeo?',
         'Jinkies.'
-    ];
+    ];*/
 
     replaceSuggestions(messageEl,suggestions);
 
