@@ -1,16 +1,24 @@
+function insertTextAtCursor(text) {
+    // https://stackoverflow.com/questions/2920150/insert-text-at-cursor-in-a-content-editable-div
+
+    let sel, range, html;
+    if (window.getSelection) {
+        sel = window.getSelection();
+        if (sel.getRangeAt && sel.rangeCount) {
+            range = sel.getRangeAt(0);
+            range.deleteContents();
+            range.insertNode( document.createTextNode(text) );
+        }
+    } else if (document.selection && document.selection.createRange) {
+        document.selection.createRange().text = text;
+    }
+}
+
 function insertBody(text) {
     let el = document.querySelector('div[aria-label="Message Body"]');
 
     if (el) {
-        el.innerHTML = text + el.innerHTML;
-
-        /*
-        var range = document.createRange();
-        var sel = window.getSelection();
-        range.setStart(el.childNodes[2], text.length);
-        range.collapse(true);
-        sel.removeAllRanges();
-        sel.addRange(range);*/
+        insertTextAtCursor(text);
 
         return true;
     }
@@ -128,16 +136,17 @@ function init() {
     let buttonsEl = messageEl.nextSibling.classList.contains('suggestButtons');
 
     if (buttonsEl) {
+        if (document.querySelector('div[aria-label="Message Body"]')) {
+            messageEl.nextSibling.style.display = 'none';
+        }
+        else {
+            messageEl.nextSibling.style.display = 'block';
+        }
+
         return false;
     }
 
     let suggestions = composePoems(messageEl.textContent);
-/*
-    const suggestions = [
-        'Jumanji!',
-        'Wherefore art thou Romeo?',
-        'Jinkies.'
-    ];*/
 
     replaceSuggestions(messageEl,suggestions);
 
