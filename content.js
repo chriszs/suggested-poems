@@ -107,7 +107,7 @@ function keepTrying(func, time) {
 
 function composePoem(seedText) {
     // http://www.rangakrish.com/downloads/RiTa-Generation.js
-    let rm = new RiMarkov(4);
+    let rm = new RiMarkov(3);
     rm.loadText(POETRY_CORPUS + ' ' + seedText);
 
     let sentences = rm.generateSentences(3);
