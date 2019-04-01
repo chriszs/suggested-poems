@@ -193,7 +193,7 @@ function init() {
     return false;
 }
 
-let ritaMarkovGenerator = new RiMarkov(3);
+let ritaMarkovGenerator = new RiMarkov(4);
 ritaMarkovGenerator.loadText(POETRY_CORPUS);
 
 keepTrying(init,1000);
