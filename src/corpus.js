@@ -47,7 +47,7 @@ Hear his opinions
 Nor yet with sudden fray or skirmish light
 As a censorious friend, to solace thine affliction
 Yet in such fear if that ye were
-And up the tower\u2019s curled stair he sprang
+And up the tower's curled stair he sprang
 (Nereid in Romaic), restores the youth to his true shape.  Mr.
 And when, for joy's relief, I think
 Nor dances in the eye
@@ -822,7 +822,7 @@ year, in the waning of moons, and many days had been
 All after ill example gone astray.
 Thrust down, by how much I aspire,
 Therefore the circle, whose swift course enwheels
-Or hold herein my right.\u201d
+Or hold herein my right.
 I will not be a stranger in this scene.
 Lay aside your garments wholly,
 Bart.  They passed this way!  I hear their horses' hoofs!
@@ -1499,7 +1499,7 @@ THAT was the scene, I knew it well;
 alive, where he left him, the lord of Weders,
 "Soldier, soldier come from the wars,
 I shall wear great boots, shall strut and shout,
-this phrase which should not be overlooked. Cf. l. 102.
+this phrase which should not be overlooked.
 living. By and by, however, it seemed as though he was to return
 The wofull peine of loves maladie,
 For which thy fame by rumour trumpet-tongued
@@ -1671,7 +1671,6 @@ Whose fair, mysterious depths I long to know?
 Had slightly turned away . . .
 on the streets throughout the day, and these seeming,
 On the largest, the strange square black turret
-'Pendennis', 1850, vol. ii, chap. 5 [or xliii], where this is
 I, perchance, am accepted already; who knows?
 His harried ships, old riotous Ocean lifts alight,
 Might know their several seasons? Nor as yet
@@ -1703,7 +1702,7 @@ When his rough bold spirit passed away
 Seems I've heerd such stories told;
 Cornelia ne'er enclose within the tomb,
 Where mothers weep above the dying child,
-(ll. 295-308) "As we have wrought, so hath it come to pass.  Our
+As we have wrought, so hath it come to pass.  Our
 The dayes honour, and the hevenes ye,
 endured not the toil even to the end with the son of Anchises,
 From their chaste robes of green.
@@ -1715,7 +1714,7 @@ Gladly where darkness may swallow,
 And I continu'd thus: "Still would I learn
 Where the light was least, and a gate stood wide,
 And, lord, so that his herte gan to quappe,
-An' every time the thunder rolls, she says:  "I
+An' every time the thunder rolls, she says:
 Which never eyes on earth again shall see.
 O you, whose house upon a rock is set,
 Dance upon the parlor wall;
@@ -1955,7 +1954,7 @@ And was before his spiritual court
 And rosy little mouth to kiss!
 Ah! I am old,--and I forget.
 An' pour your creeshie nations;
-(ll. 593-597) But Daniel was not able to speak these many words
+But Daniel was not able to speak these many words
 It is these that are worth the homage on earth,
 But better far the dame.
 Insulted by a lazy ribald
@@ -2072,7 +2071,7 @@ Sacrifice heart and mind and will to Me!
 half so angry with the suitors, for if they choose to do
 You are but the pike, Kenozha,
 Gird ye, men, for the sinister field;
-bolted.  (Sound of guitars and voices in a neighboring street.)
+(Sound of guitars and voices in a neighboring street.)
 his fame will be secure and appropriately perpetuated.
 As when on opening roses,
  St. Nicholas, Bishop of Mira, who, according to the legend,
@@ -2174,7 +2173,7 @@ rings aroom on efery site,
 With the cawing of the crow,
 And it's O, for my dear and the charm that stays -
 A towering spectre of gigantic mould,
-Urging its arduous matter to the close),
+Urging its arduous matter to the close,
 she were trying to see through,
 And the light of mirth is darkened
 And heard a thousand briny songs.
@@ -2228,7 +2227,7 @@ An' though they dwell in many places,
 And the spirit enshrouded, she cast
 Combing the hoary tresses of the main
 If some suspect of ill mask'd not thy show,
-Those to Aurora and the rising sun).
+Those to Aurora and the rising sun.
 Sorrow-bowed head?
 Of sudden and portentous birth,
 said, 'is King of Kings'"   Rupert Brooke
@@ -2449,7 +2448,6 @@ And yet I can but call you poor,
 After my image;
 Shouting the grandeur of his race,
 And glimmered through like unto straws in glass.
-House-rent
 No Sofa then I needed.  Youth repairs
 I bent to my toil till the gray,
 them, that so many tongues are not now taught between Savena and
@@ -2491,7 +2489,6 @@ Darting rays of violet,
 He saw those Franks, and all who'ld judge his doom,
 As the most skilful painter ever painted
 Toil for the far-off hours;
-Sich-like ways!
 That well may be, for marvellous-like art thou
 Still gold on his crest and still black on his wings;
 Song, "Phoebus, arise"       William Drummond
@@ -2536,7 +2533,6 @@ The full-waked sense; or failing that, degrade!
 And golden rings round baith ees drawn,
 That no man with thee to this spot
 They shall be made to eat the flesh of swine,
-shall hear.
 While I, a pilgrim from across the sea,
 A musical but melancholy chime,
 THE VALLEY OF THE SHADOW Knowing Good and Evil.
@@ -2722,9 +2718,8 @@ Poor bullocky Bill!  In the circles select
 His mother's heritage was this and right,
 Then a man uprose before us--
 For your branches murmur love songs to the sun-
-paramour!
 In politics: I'm Vermont Democrat--
-If we have to wait for years."
+If we have to wait for years.
 Since this day's sun of rapture filled the west
 But as a river forward.  Soaring France!
 Bless to both nations this auspicious hour!
@@ -3710,11 +3705,10 @@ The veriest phantom of all phantasies--
 Of pardon then for every sin.
 Beyond the Earths green Cape and verdant Isles
 Hilding said, and went his way.
-\u201cThat shall I do: my hand and head
+That shall I do: my hand and head
 The riders spur their unwilling horses, haul close,
 And drew him up, so that he seemed an otter.
 Strangers in a strange land, miles and miles and miles of them,
-Since the note at p. 133 <i.e. note 55.1> was written,
 Your other task, ye menial train forbear:
 Symboled in full immaculate modesty.
 And the plashing of waterdrops
@@ -4627,7 +4621,7 @@ The world's too busy to implore
 To the unpennied cadets our cousins with excellent fortunes.
 And out enraged he went.
 That hath so long disturb'd their brain;
-An' niver flang ower(2) but yance iv a grip.(3)
+An' niver flang ower but yance iv a grip.
 But I'll love him more, more
 Lie scattered where the shapely column stood.
 And, when we knelt, she seem'd to be
@@ -4790,7 +4784,6 @@ And though' this writer 'MAY forget,'
 body of Sarpedon. From these he strode on among the Trojans to
 And the forest's life was in it,
 Before a few mysterious odds and ends
-"Call again,
 Weary am I of waiting and sighing,
 By all that my love has borne,
 From which it is derived, sooth to tell
@@ -5004,7 +4997,7 @@ I swear it; I the Czar,
 Dey coom to a castel,
 Where morning's altar whitely burns
 I see her close beside me with silent lips sad and tremulous.
-\u201cAnd thither will not thou with me
+And thither will not thou with me
 Whan that he syh the time best,
 To you! to you! all song of praise is due;
 An' to your wessel, etc.
@@ -5728,7 +5721,6 @@ Of soldiers, who their mercenaries are.
 Neither,' she quickly, almost proudly spoke.
 shall work and have no fear
 genuineness has been most impugned, as from those which are
-ii. 269.) Cf. Scott on the Scottish mendicants in the
 But now,--NOW that we part indeed,
 How else may man make straight his plan
 But deep in the silence something stirred -
@@ -5963,7 +5955,6 @@ Like a soul with radiant wings;
 blame.
 But you'll never accomplish more;
 And our strong hands with swords and bucklers arm.
-many of the personages mentioned in the Poem is derived.
 Next Helymus; and then Diores came,
 'Tis most true, than the race of these men is there wretcheder
 "My Heart's in the
@@ -6818,7 +6809,6 @@ The night hath come; it is no longer day?
 Too lovely was that female form!
 Stand motionless expectants of its fall.
 Many a glad good-morrow and jocund laugh from the young folk
-important part of the book, the poems must speak for themselves.
 The garden's earliest flower,
 late blossoms, and wreathed with laurel-looking
 Oswego is a river which runs between Lakes Oneida and Ontario.
@@ -7546,7 +7536,6 @@ And falls, through wind, before the fall should be.
 A fortnight's space, at least, I need,
 Sir Aquilant made squires and beasts as well
 have left off fighting, and are leaning upon their shields,
-without them the poem must be imperfect, or so convenient that no
 And ech of hem his oghne sete
 Pares:  origo Di quibus ac Deae
 vibrant up the winding stair:  "Where--where is Mary
@@ -9419,7 +9408,6 @@ For though I know he loves me,
 Immortalise your name for once and all.
 Where, through the garish lights that fly
 The needs o' the poor, suddenly-orphaned child?
-loves;
 For evere I wolde hire holde stille:
 We had once despised his race--
 True! free yet he was not: but could he not be
@@ -10301,7 +10289,6 @@ All standing stout and green.
 It was then he sought death.
 But he'll have his eye on you-
 In the shadow, quite alone,
-quaint as were the poems invariably accompanied
 Of all save the sense of her own love!  Anon,
 "For the sake of all my brethren
 May ye not ten dayes thanne abyde,
@@ -10761,7 +10748,7 @@ What stony tears in those congealed eyes!
 "It's coo-coo-cook has gone and bought
 To King Sobrino's counsel sage and staid;
 The blow so great, that they despaired of pardon.
-He's been lame ever since, poor chap."
+He's been lame ever since, poor chap.
 Whil themperour Tiberius
 And all the rule, one Empire; onely add
 The wine-cup heals the sharpest pangs that rage,
@@ -17340,12 +17327,10 @@ I leave in silence here: nor through distrust
 His pourpos, it schal wel be yolde,
 "Let the Nun, then, retrace
 Bot whanne it is to resoun due.
-"The poems of Halleck are written with great care and finish, and
 Lightning divine, ineffable, serene,
 And, as I gaze in the coals, I remember
 And the thoughts of youth are long, long thoughts."
 Let himself backwards in that struggle fall,
-vengeance.
 Who most doth love thinks least of love's return;
 Unto the righteous poor, not through itself,
 So when with praise amid the dance they shine,
@@ -18208,9 +18193,8 @@ Well I perceive that never sated is
 Remember what I warn thee, shun to taste,
 On the dowie banks o' Yarrow?'
 And greatest and most present, with her dower
-In the poem called "The Grasshopper" (p. 94), the author speaks
-To Pretas and to Bhutas.[FN#35] Yea, and those
-{13a} "Guarded the treasure."
+To Pretas and to Bhutas. Yea, and those
+"Guarded the treasure."
 Of a probable likelihood to be
 Through that dense hood:
 Yet no such quickness for defence he used,
@@ -18220,7 +18204,6 @@ When passing on my daily trot.
 They gladly thither haste, and by a Quire
 Struggled a howling crowd of boys, pell-mell,
 Youth stands a-tiptoe, eager, bright,
-|                           |
 Not slothful he, though seeming unemployed,
 And this the cheerful semblance, I behold
 THY various works, imperial queen, we see,
@@ -19971,7 +19954,6 @@ He smote the monarch, broadside charged the steed,
 To gather one of all the blossoms there.
 How would he wish that Heaven had left him still
 An' some of us tried hard-like not ter choke,
-But gratifying!"
 You cannot choose but know him well,
 Their imps and their goblins did up and downe run,
 Foiled, soiled, enclosed in this desire of flesh.
@@ -19980,7 +19962,6 @@ Vot life dere long aco.
 And scant and sear the desert grasses nod
 Supplied their thirst, the trees supplied their food.
 In this report, this answer of a king,
-becomes omnific,
 Through the breathing-holes of the darksome cave.
 And naval stores, and every needful gear.
 And my estate is suffering for the Cause. -

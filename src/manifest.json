@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Suggested poems for Gmail",
   "description": "Replaces suggested replies on Gmail messages with poetic verse.",
-  "version": "0.5",
+  "version": "0.6",
   "content_scripts": [
     {
       "matches": [
