@@ -4,34 +4,28 @@ window.POETRY_CORPUS = `Groan, and Pangaean cliffs, till at their rage
 Until you on a crummock driddle,
 A sunbeam flashes so, that from its coming
 What will I do with all this wealth of love?
-Alone, and not as he dreamt erstwhile!"
+Alone, and not as he dreamt erstwhile!
 And flow on stronger in their wedded might.
 Fair ones, beyond all numerability,
-It is just the Subconscious Self.
 Thus bold, independent, unconquer'd, and free,
 Which mihte in loves cause stonde.
 name was Antilochus; I never set eyes upon him myself, but they
-Bot if ther be schedinge of blod;
 That loomed a sombre highland;
 fallen that he let the hook drop at his feet, and said to the
-To telle soth riht as I wene,
 If I confess a loftier flame,
 There are wrecks far down -- there are graves below.
 "You alarm me!"
 Lays heroes, patriots, bards, and kings;
-One showed himself as one of the disciples
-"Now violate Liberty, time being bad,
+Now violate Liberty, time being bad,
 To be staked in the pastime
 Our ashes are dispersed unto the winds.
 I watched you with such care;
 Without reserve or caution.  Many a time,
-the 'reluctant savage' into the toils, as the Indians when they
 Like the lips of a martyr who mocks at pain,
 And silent by them stands.
 That was not yesterday.  There's still
 Whose like was never seen nor heard,
 I take my heart in my hand,
-and if I went on a little farther, and came to a classical
 In the twilight, longwhile
 And from them issued forth such dire laments,
 (What breast of northern ice but warms!)
@@ -48,7 +42,7 @@ Nor yet with sudden fray or skirmish light
 As a censorious friend, to solace thine affliction
 Yet in such fear if that ye were
 And up the tower's curled stair he sprang
-(Nereid in Romaic), restores the youth to his true shape.  Mr.
+restores the youth to his true shape.
 And when, for joy's relief, I think
 Nor dances in the eye
 The ne'er-a-bit they're ill to poor folk,
@@ -71,12 +65,11 @@ So let her heart, on Thee at rest,
 leader of the Ghibelline forces. It is unnecessary to point out
 My eyes will never see the brook,
 I wish I had a pet,
-Things that will credence give unto my speech."
+Things that will credence give unto my speech.
 mansions to the sight of mortals and immortals--mansions so
 Do not the peoples and the nations shake,
-illustrations to do, I want you to do as many of
 His violence thou fearest not, being such
-By those I died to save?"
+By those I died to save?
 The earth with due illustrious rite
 To all things, and for aye as now
 That proud exception to all Nature's laws,
@@ -89,7 +82,7 @@ You say the sun shines bright;
 Of mannes witt, if he it taste,
 The sun is set; the day is dead;
 Thou art the one who such nobility
-From climbing the stairways of thy tower!'
+From climbing the stairways of thy tower!
 To the rolling of the bells--
 Eunoe, it is called; and worketh not
 The Fool Errant sat by the highway of life
@@ -113,20 +106,18 @@ A monarch in thy realm complete,
 Through the open door of dreamland
 In short all good to sense, all bad to touch,
 Still they are frowning signals, and bespeak
-The covenants be," he said, "that thou unfold
+"The covenants be, he said, "that thou unfold"
 And the dimpled, dainty violet sips
-The deil he couldna scaith thee,
 And tenderer shine all mother-eyes;
 Steady thy laden head across a brook;
 He saw King Jesus.  They were face to face,
 Maintain her guiltless in the listed field.
 Love unflinching that cannot lie--
-These gates would seem too narrow for thy flight."
-Along the street where Heinrich had his shop.
+These gates would seem too narrow for thy flight.
 My lord came in at my open door
 That Fate and a discerning age shall set
-"I beheld, too, in that vision
-the shrine of St Jago in Galicia; Romei, who go to Rome.   Sir
+I beheld, too, in that vision
+the shrine of St Jago in Galicia; Romei, who go to Rome.
 And that each night I slept -- O foul untruth! --
 In Casterbridge there stood a noble pile,
 Bot whil he hath o day to live,
@@ -138,9 +129,7 @@ And if it mihte so betyde,
 And of such mete as he was served,
 Among us in the jousts, while women watch
 Takes on a luminous transiency of grace,
-"Dear old man,
-Delicacie he put aweie,
-between them?"
+Dear old man,
 Appeared where blanks had used to be.
 We heard them near the Marble Arch;
 It always better to look ahead,
@@ -158,12 +147,12 @@ Truth, and the life of noble trust.
 Had not my woman's heart been kind to thee.
 I sit with gods at their celestial feast;
 But if I for one night her arms may fill,
-Old Noll once gave them a purge (forgetting OCCIDISTI),
+Old Noll once gave them a purge,
 O Death, thy stern and angry face,
 What's fame? a fancied life in others' breath,
 Rejoiced I am that I may stay.
 O, be an angel still!  She needs that smile.
-forest trees, and the song of birds; and the Creature said, "Ah,
+forest trees, and the song of birds; and the Creature said, "Ah,"
 And the proud and delicate line of the nose
 For little can we say we live
 Therefore came he to the worser pass.
@@ -178,13 +167,13 @@ Distinguish'd from the crowd, he shines a gem,
 Has gone from his nest,
 A saint in crape is twice a saint in lawn;
 Reach down a hand, my dear, and take
-Eager for fight as wasps [whose woodland bower
+Eager for fight as wasps whose woodland bower
 So standing, moving, or to highth upgrown
 And kissed her over oft and oft,
 None will give more delight
 Through the thick vapours Mars with fiery beam
 The god, that constant keepes
-I'll save him if I can.'
+I'll save him if I can.
 Do not linger with regretting,
 Time whets his scythe and shakes his glass,
 Lur'd with the smell of infant blood, to dance
@@ -192,8 +181,8 @@ A much-discerning Public hold
 And sing at her window;
 All people that on middle earth do dwell,
 Of the Invisible; even from out thy slime
-"Philosophy," said I, ''hath arguments,
-Pains the sage ear, and hurts the sober eye."
+"Philosophy," said I, "hath arguments,"
+Pains the sage ear, and hurts the sober eye.
 Unto your royal home 't will follow you,
 And leave to me but this for dower--
 what are the dusky marks of this body, which there below on earth
@@ -202,23 +191,22 @@ Then I anoynt me, and stript willing loose
 Who formd us from the dust, and plac'd us here
 Shorn of his Beams, or from behind the Moon
 found only in our poem.  See the introduction.
-Mother, let me pass."
+Mother, let me pass.
 to sustain the war alike of the road, and of the woe which the
 Brought into being, in accursd flames
 Sweeney, who, still contending against the old man's
-"I'll be the one, if anybody goes!
+"I'll be the one, if anybody goes!"
 Well then, what answer?'
 Then cried the soul of the stout Apostle Paul to God:
 That he would lose his labour's fruit, although
 He conquered the place:
-Nell Gwynne's Looking-Glass  Laman Blanchard
 To the organ out in the street,
 For Phoebus, ever true in all he said,
 I would like to be able to play the difference
 Sea nearly opposite to Ithaca.  At its mouth the sea has
-And shew<60.6> a setting, ere a rising sun!
+And shew a setting, ere a rising sun!
 And baptized many converts.
-"Liberty, patriotism, and civilization are on their knees
+Liberty, patriotism, and civilization are on their knees
 The stars, escaping,
 There passed, as a shroud,
 At least they'll drub 'em weel, I dinnot fear,
@@ -229,13 +217,12 @@ Shudders and groans, so did the sons of Troy,
 And these grand--children and great grand-children
 You, when your eyes have evening sunlight in them,
 Whose brickwork base the cunning Romans laid--
-And when dey are oop
 An outside? fair no doubt, and worthy well
 out of the plenty in my house, and for him and for the rest
 With good Sobrino, and the better peer,
 The mountain whence the river springs
 Their threat'nings are as senseless as
-It answer'd:  "From the day, when it was said
+It answer'd:  "From the day, when it was said"
 So, heavy, passive to the tempest's shocks,
 All her life's round.
 On the edge of the western sea,
@@ -18358,7 +18345,6 @@ Nay verily, I will not yet obey, for I had sight of the
 His wished presence, and beside
 From centuries of servile toil
 pondering, Are those women indeed gone?
-According to Borrow's 'Lavengro', ch. xli, Lord Chesterfield
 I said, "She is with the pale white saints,
 The thoughts which roll within my ravish'd breast,
 longer what it was when Ulysses went away, but has become soiled
